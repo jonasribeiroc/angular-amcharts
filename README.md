@@ -45,7 +45,7 @@ $scope.options = {
     "allLabels": [],
     "balloon": {},
     "titles": [],
-    "dataProvider": [
+    "data": [
         {
             "country": "Czech Republic",
             "litres": "356.9"
