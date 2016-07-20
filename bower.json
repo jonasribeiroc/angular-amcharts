@@ -1,6 +1,6 @@
 {
   "name": "angular-amcharts",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/jonasribeiroc/angular-amcharts",
   "authors": "Jonas Ribeiro <jonasribeiroc@gmail.com>",
   "description": "Angular directive for implementing amCharts",

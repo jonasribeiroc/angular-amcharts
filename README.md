@@ -20,10 +20,10 @@ Include `amcharts.js` plus files you will be using for each chart type, i.e.
 Add a `<script>` to your `index.html`:
 
 ```html
-<script src="/bower_components/angular-amcharts/angular-route.js"></script>
+<script src="/bower_components/angular-amcharts/angular-amcharts.js"></script>
 ```
 
-Then add `ngRoute` as a dependency for your app:
+Then add `amChart` as a dependency for your app:
 
 ```javascript
 angular.module('myApp', ['amChart']);
